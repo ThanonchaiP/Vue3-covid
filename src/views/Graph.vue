@@ -39,7 +39,7 @@ export default {
         labels: toDay,
         datasets: [
           {
-            label: "ผู้ปวยวันนี้",
+            label: "ผู้ปวยวันนี้.",
             backgroundColor: ["#1abc9c"],
             data: todayCases,
           },
